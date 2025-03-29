@@ -23,7 +23,6 @@ pip install rich
 npm install -g bash-obfuscate
 pip install rich-cli
 bash bash.setup build
-pip install rich-cli
 pkg install git bash
 pkg install cowsay ruby -y
 pkg install binutils zip unzip 

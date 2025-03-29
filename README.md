@@ -23,7 +23,6 @@ pip install rich
 npm install -g bash-obfuscate
 pip install rich-cli
 bash bash.setup build
-npm install -g bash-obfuscate
 pip install rich-cli
 pkg install git bash
 pkg install cowsay ruby -y
@@ -31,7 +30,6 @@ pkg install binutils zip unzip
 pkg install curl jq git ossp-uuid
 pkg install ncurses-utils nodejs
 pkg install nodejs-lts python
-npm -g install bash-obfuscate
 pkg install xz-utils
 pip install pyliblzma
 pkg install busybox

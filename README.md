@@ -34,4 +34,4 @@ pip install pyliblzma
 pkg install busybox
 git clone https://github.com/Krocoo4578/Goblok.git
 cd Goblok 
-bash Thonxyzz404.sh
+bash Running.sh

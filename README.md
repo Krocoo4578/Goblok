@@ -2,11 +2,11 @@
 
 Repository ini berisi koleksi alat dan skrip untuk Termux...!!
 
-### Screenshot [1]
+### Screenshot [ 1.]
 
 ![Screenshot 1](Screenshot_2025-04-18-14-44-57-73_84d3000e3f4017145260f7618db1d683.jpg)
 
-### Screenshot [2]
+### Screenshot [ 2.]
 
 ![Screenshot 2](Screenshot_2025-04-18-14-44-41-38_84d3000e3f4017145260f7618db1d683.jpg)
 
